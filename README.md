@@ -43,13 +43,7 @@ I'm also learning Back-End Development and looking forward to be a Full Stack We
 
 ## 🏆 *Github Status*
 
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=mrkapi1&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%"  align="right" >
-<br>
-<div align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=mrkapi1&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%"  align="center" >
+<div align="center"> </br>
 
-## 🏆 *Certifications*
 
-<div>
-<img  src="https://www.hackerrank.com/certificates/e00874aa6aeb" width="48%" >
-<img  src="https://www.hackerrank.com/certificates/2f66b74b9023" width="48%" >
-</div>
