@@ -43,8 +43,7 @@ I'm also learning Back-End Development and looking forward to be a Full Stack We
 
 ## 🏆 *Github Status*
 
-[![GitHub Streak]
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mrkapi1&theme=dark" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=mrkapi1&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%"  align="right" >
 <br>
 <div align="center">
 
